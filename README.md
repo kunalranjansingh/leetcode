@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kunalranjansingh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/0567-permutation-in-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kunalranjansingh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -88,7 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
