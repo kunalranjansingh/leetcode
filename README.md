@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/0567-permutation-in-string) |
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalranjansingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
