@@ -4,9 +4,18 @@ class Solution {
             return false;
         }
         TreeMap<Integer , Integer> map = new TreeMap<>();
+        //HashMap<Integer , Integer> map = new HashMap<>();
         for(int i=0; i<hand.length; i++){
             map.put(hand[i], map.getOrDefault(hand[i],0)+1);
         }
+        //for(int currentCard: hand){
+          //  if(!map.containsKey(currentCard)){
+            //    continue;
+            //}
+            //while(map.containsKey(currentCard-1)){
+              //  currentCard--;
+           // }
+        
         while(map.size()>0){
             int currentCard = map.entrySet().iterator().next().getKey();
             for(int i=0; i<groupSize; i++){
