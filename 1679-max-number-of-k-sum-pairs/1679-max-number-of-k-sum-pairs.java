@@ -26,7 +26,7 @@ class Solution {
 
             if(map.getOrDefault(required,0)>0){
                 count++;
-                map.put(required , map.getOrDefault(required , 0)-1);
+                map.put(required , map.get(required)-1);
             }
             else{
                 map.put(num,map.getOrDefault(num,0)+1);
