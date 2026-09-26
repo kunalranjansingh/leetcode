@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -240,9 +241,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kunalranjansingh/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kunalranjansingh/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
