@@ -1,12 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int sum=0;
-        for(int i =0; i<nums.length; i++){
-            sum=sum+nums[i];
+        Arrays.sort(nums);
+
+        int left =0; 
+        int right = nums.length-1;
+
+        while(left<= right){
+            int mid = left+ (right-left)/2;
+
+            if(nums[mid] == mid){
+                left = mid+1;
+            }
+            else{
+                right = mid-1;
+            }
         }
-        int actualsum = nums.length*(nums.length+1)/2;
-        int newsum = actualsum-sum;
-        return newsum;
+        return left;
     }
     
 }
