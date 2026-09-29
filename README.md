@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kunalranjansingh/leetcode/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalranjansingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/kunalranjansingh/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
