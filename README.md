@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalranjansingh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quicksort
 |  |
 | ------- |
