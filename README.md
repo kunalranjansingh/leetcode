@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalranjansingh/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalranjansingh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kunalranjansingh/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kunalranjansingh/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalranjansingh/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalranjansingh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/kunalranjansingh/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
