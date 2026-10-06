@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kunalranjansingh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/kunalranjansingh/leetcode/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kunalranjansingh/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalranjansingh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
