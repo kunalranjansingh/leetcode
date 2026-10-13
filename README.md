@@ -285,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kunalranjansingh/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kunalranjansingh/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kunalranjansingh/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
