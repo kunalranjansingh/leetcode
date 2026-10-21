@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kunalranjansingh/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0390-elimination-game](https://github.com/kunalranjansingh/leetcode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/kunalranjansingh/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kunalranjansingh/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kunalranjansingh/leetcode/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/kunalranjansingh/leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
