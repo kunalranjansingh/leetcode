@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunalranjansingh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kunalranjansingh/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/kunalranjansingh/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kunalranjansingh/leetcode/tree/master/0205-isomorphic-strings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunalranjansingh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kunalranjansingh/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kunalranjansingh/leetcode/tree/master/0078-subsets) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
