@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kunalranjansingh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/kunalranjansingh/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kunalranjansingh/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalranjansingh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kunalranjansingh/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -369,8 +371,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
