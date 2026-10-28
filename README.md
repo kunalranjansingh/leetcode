@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/kunalranjansingh/leetcode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/kunalranjansingh/leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kunalranjansingh/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/kunalranjansingh/leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
