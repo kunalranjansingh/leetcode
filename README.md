@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/kunalranjansingh/leetcode/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kunalranjansingh/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
+| [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kunalranjansingh/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
+| [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/kunalranjansingh/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0052-n-queens-ii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
