@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1079-letter-tile-possibilities](https://github.com/kunalranjansingh/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kunalranjansingh/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/kunalranjansingh/leetcode/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
