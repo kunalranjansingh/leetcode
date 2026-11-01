@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/kunalranjansingh/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalranjansingh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kunalranjansingh/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalranjansingh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kunalranjansingh/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kunalranjansingh/leetcode/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
