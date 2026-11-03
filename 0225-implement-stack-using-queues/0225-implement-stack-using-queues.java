@@ -8,8 +8,9 @@ class MyStack {
     public void push(int x) {
         int size = queue.size();
         queue.add(x);
-        while(size -- > 0){
+        while(size > 0){
             queue.add(queue.poll());
+            size--;
         }
     }
     
