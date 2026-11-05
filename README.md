@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/kunalranjansingh/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1544-make-the-string-great](https://github.com/kunalranjansingh/leetcode/tree/master/1544-make-the-string-great) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/kunalranjansingh/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunalranjansingh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/kunalranjansingh/leetcode/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
