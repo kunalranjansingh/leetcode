@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunalranjansingh/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kunalranjansingh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kunalranjansingh/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunalranjansingh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
