@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kunalranjansingh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kunalranjansingh/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kunalranjansingh/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunalranjansingh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -520,10 +522,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kunalranjansingh/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kunalranjansingh/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kunalranjansingh/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
