@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/kunalranjansingh/leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/kunalranjansingh/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalranjansingh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kunalranjansingh/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/kunalranjansingh/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/kunalranjansingh/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kunalranjansingh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/kunalranjansingh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0503-next-greater-element-ii) |
