@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunalranjansingh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kunalranjansingh/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/kunalranjansingh/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kunalranjansingh/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kunalranjansingh/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalranjansingh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
