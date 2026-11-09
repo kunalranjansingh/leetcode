@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kunalranjansingh/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/kunalranjansingh/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kunalranjansingh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kunalranjansingh/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/kunalranjansingh/leetcode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0212-word-search-ii) |
 | [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
 ## Sorting
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kunalranjansingh/leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/kunalranjansingh/leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/kunalranjansingh/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/kunalranjansingh/leetcode/tree/master/0376-wiggle-subsequence) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunalranjansingh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kunalranjansingh/leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/kunalranjansingh/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalranjansingh/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunalranjansingh/leetcode/tree/master/0155-min-stack) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kunalranjansingh/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/kunalranjansingh/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0456-132-pattern) |
