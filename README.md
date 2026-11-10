@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/kunalranjansingh/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/kunalranjansingh/leetcode/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/kunalranjansingh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
