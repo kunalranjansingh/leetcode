@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
