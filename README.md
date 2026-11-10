@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kunalranjansingh/leetcode/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/kunalranjansingh/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kunalranjansingh/leetcode/tree/master/0704-binary-search) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kunalranjansingh/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/kunalranjansingh/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/kunalranjansingh/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kunalranjansingh/leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/kunalranjansingh/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/kunalranjansingh/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
