@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kunalranjansingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjansingh/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalranjansingh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/kunalranjansingh/leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/kunalranjansingh/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kunalranjansingh/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0409-longest-palindrome) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kunalranjansingh/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/kunalranjansingh/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kunalranjansingh/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
