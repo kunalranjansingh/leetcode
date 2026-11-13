@@ -627,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kunalranjansingh/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
