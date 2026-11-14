@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/kunalranjansingh/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/kunalranjansingh/leetcode/tree/master/2126-destroying-asteroids) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kunalranjansingh/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1323-maximum-69-number](https://github.com/kunalranjansingh/leetcode/tree/master/1323-maximum-69-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Pigeonhole Principle
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kunalranjansingh/leetcode/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/kunalranjansingh/leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/kunalranjansingh/leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Newton's Method
 |  |
 | ------- |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/kunalranjansingh/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/kunalranjansingh/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 ## Monotonic Stack
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/kunalranjansingh/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kunalranjansingh/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
