@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalranjansingh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/kunalranjansingh/leetcode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kunalranjansingh/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalranjansingh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjansingh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalranjansingh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/0567-permutation-in-string) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kunalranjansingh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalranjansingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kunalranjansingh/leetcode/tree/master/0641-design-circular-deque) |
@@ -626,9 +630,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kunalranjansingh/leetcode/tree/master/0175-combine-two-tables) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
