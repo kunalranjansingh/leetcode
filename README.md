@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalranjansingh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/kunalranjansingh/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1696-jump-game-vi](https://github.com/kunalranjansingh/leetcode/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kunalranjansingh/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kunalranjansingh/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/kunalranjansingh/leetcode/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 ## Bucket Sort
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/kunalranjansingh/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunalranjansingh/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1696-jump-game-vi](https://github.com/kunalranjansingh/leetcode/tree/master/1696-jump-game-vi) |
 ## Memoization
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/kunalranjansingh/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kunalranjansingh/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/kunalranjansingh/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [1696-jump-game-vi](https://github.com/kunalranjansingh/leetcode/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalranjansingh/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kunalranjansingh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kunalranjansingh/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kunalranjansingh/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/kunalranjansingh/leetcode/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 ## Database
 |  |
