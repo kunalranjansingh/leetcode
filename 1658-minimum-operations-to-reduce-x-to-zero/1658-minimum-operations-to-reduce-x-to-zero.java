@@ -1,34 +1,34 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
 
-        int total = 0;
+        int sum = 0;
+        int n = nums.length;
 
-        for (int num : nums) {
-            total += num;
+        for (int i : nums) {
+            sum += i;
         }
 
-        int target = total - x;
-
-        if (target < 0) return -1;
-
+        int target = sum - x;
+        int currSum = 0;
+        int maxLen = 0;
         int left = 0;
-        int sum = 0;
-        int maxLen = -1;
+        boolean found = false;
 
-        for (int right = 0; right < nums.length; right++) {
+        for (int right = 0; right < n; right++) {
 
-            sum += nums[right];
+            currSum += nums[right];
 
-            while (sum > target && left <= right) {
-                sum -= nums[left];
+            while (left <= right && currSum > target) {
+                currSum -= nums[left];
                 left++;
             }
 
-            if (sum == target) {
+            if (currSum == target) {
+                found = true;
                 maxLen = Math.max(maxLen, right - left + 1);
             }
         }
 
-        return maxLen == -1 ? -1 : nums.length - maxLen;
+        return found ? n - maxLen : -1;
     }
 }
