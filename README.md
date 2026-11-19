@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kunalranjansingh/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kunalranjansingh/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kunalranjansingh/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kunalranjansingh/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/kunalranjansingh/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kunalranjansingh/leetcode/tree/master/0205-isomorphic-strings) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kunalranjansingh/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kunalranjansingh/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kunalranjansingh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kunalranjansingh/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kunalranjansingh/leetcode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/kunalranjansingh/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalranjansingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
