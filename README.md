@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/kunalranjansingh/leetcode/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kunalranjansingh/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/kunalranjansingh/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/kunalranjansingh/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kunalranjansingh/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kunalranjansingh/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kunalranjansingh/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/kunalranjansingh/leetcode/tree/master/1029-two-city-scheduling) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/kunalranjansingh/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/kunalranjansingh/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/kunalranjansingh/leetcode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kunalranjansingh/leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kunalranjansingh/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/kunalranjansingh/leetcode/tree/master/1029-two-city-scheduling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kunalranjansingh/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -712,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/kunalranjansingh/leetcode/tree/master/0845-longest-mountain-in-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
