@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/kunalranjansingh/leetcode/tree/master/3508-implement-router) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/kunalranjansingh/leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Matrix
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kunalranjansingh/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalranjansingh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalranjansingh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalranjansingh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kunalranjansingh/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kunalranjansingh/leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/kunalranjansingh/leetcode/tree/master/0980-unique-paths-iii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/kunalranjansingh/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/kunalranjansingh/leetcode/tree/master/3508-implement-router) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/kunalranjansingh/leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Stack
