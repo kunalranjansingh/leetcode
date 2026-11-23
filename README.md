@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/kunalranjansingh/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1544-make-the-string-great](https://github.com/kunalranjansingh/leetcode/tree/master/1544-make-the-string-great) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/kunalranjansingh/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kunalranjansingh/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalranjansingh/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalranjansingh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kunalranjansingh/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
