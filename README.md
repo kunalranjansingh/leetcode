@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kunalranjansingh/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalranjansingh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kunalranjansingh/leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/kunalranjansingh/leetcode/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/kunalranjansingh/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kunalranjansingh/leetcode/tree/master/0641-design-circular-deque) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/kunalranjansingh/leetcode/tree/master/0506-relative-ranks) |
+| [0611-valid-triangle-number](https://github.com/kunalranjansingh/leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/kunalranjansingh/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kunalranjansingh/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kunalranjansingh/leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/kunalranjansingh/leetcode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/kunalranjansingh/leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/kunalranjansingh/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/kunalranjansingh/leetcode/tree/master/0881-boats-to-save-people) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/kunalranjansingh/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kunalranjansingh/leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/kunalranjansingh/leetcode/tree/master/0456-132-pattern) |
+| [0611-valid-triangle-number](https://github.com/kunalranjansingh/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/kunalranjansingh/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalranjansingh/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalranjansingh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kunalranjansingh/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kunalranjansingh/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kunalranjansingh/leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/kunalranjansingh/leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kunalranjansingh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/kunalranjansingh/leetcode/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/kunalranjansingh/leetcode/tree/master/0738-monotone-increasing-digits) |
