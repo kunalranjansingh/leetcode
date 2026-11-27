@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kunalranjansingh/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/kunalranjansingh/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalranjansingh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalranjansingh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/kunalranjansingh/leetcode/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalranjansingh/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalranjansingh/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/kunalranjansingh/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalranjansingh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/kunalranjansingh/leetcode/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kunalranjansingh/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/kunalranjansingh/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalranjansingh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalranjansingh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunalranjansingh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
