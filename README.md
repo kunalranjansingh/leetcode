@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kunalranjansingh/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalranjansingh/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunalranjansingh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/kunalranjansingh/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/kunalranjansingh/leetcode/tree/master/3508-implement-router) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalranjansingh/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalranjansingh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunalranjansingh/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/kunalranjansingh/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2762-continuous-subarrays](https://github.com/kunalranjansingh/leetcode/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalranjansingh/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
